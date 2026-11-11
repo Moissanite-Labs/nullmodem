@@ -1,0 +1,24 @@
+{
+    "creators": [
+        {
+            "name": "Arifuddin, Ahraz"
+        }
+    ],
+    "title": "nullmodem",
+    "description": "<p>This repository is research on how agents talk to each other below the level of text, when the harness owns the model, the tokenizer and the machine.</p><p>It holds research notes, small experiments on local open-weight models, and measurements against a text baseline.</p><p>Directed by Ahraz Arifuddin</p><p>Researched and verified by different model families across Gemini, Claude, Grok, OpenAI, and Muse</p>",
+    "upload_type": "software",
+    "license": "MIT",
+    "keywords": [
+        "moissanite-labs",
+        "agent-communication",
+        "local-models"
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/Moissanite-Labs/nullmodem",
+            "relation": "isSupplementTo",
+            "scheme": "url",
+            "resource_type": "software"
+        }
+    ]
+}
